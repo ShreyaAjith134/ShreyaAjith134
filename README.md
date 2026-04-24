@@ -1,17 +1,31 @@
-# About Me
+# Hi, I'm Shreya Ajith
 
-I am a Computer Science undergraduate at PES University with an interest in building reliable and user-focused software solutions. I am particularly inclined towards design, user experience, and the intersection of creativity and technology.
+Computer Science undergraduate who enjoys building things across the full stack — from Arduino-based hardware systems to web and mobile applications.
 
-I have worked on projects involving application development, database management, and interface design, and I continue to explore new technologies to strengthen my problem-solving and development skills. I am motivated to learn, collaborate, and contribute to meaningful projects.
+I have worked on projects spanning embedded systems, computer vision, and full-stack web development, and I am particularly drawn to work that bridges hardware and software.
 
-Portfolio: https://shreyaajith.carrd.co  
-LinkedIn: https://www.linkedin.com/in/shreyaajith/
+---
 
+## Technical Skills
 
-# Technical Skills
+| Category | Tools |
+|---|---|
+| Languages | C, Python |
+| Frameworks & Tools | Flutter, Node.js, React.js, Express.js |
+| Databases | MySQL, SQLite, MongoDB |
+| Hardware | Arduino, Embedded Systems |
 
-- Programming Languages: C, Python  
-- Frameworks and Tools: Flutter, Node.js  
-- Databases: MySQL, SQLite  
-- Other Technologies: Arduino  
+---
 
+## Interests
+
+- Robotics & Embedded Systems
+- IoT & Hardware-Software Integration
+- Computer Vision
+- Mobile & Full-Stack Development
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreya%20Ajith-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreyaajith/)
