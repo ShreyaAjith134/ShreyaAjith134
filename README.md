@@ -1,50 +1,106 @@
-<p align="center">
-  <img src="assets/banner_img.png" alt="Shreya - Developer - PES University" width="100%"/>
-</p>
+# Shreya Ajith
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ShreyaAjith134/ShreyaAjith134?style=for-the-badge&label=STARS&color=1a1a1a&labelColor=FF1493" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/ShreyaAjith134/ShreyaAjith134?style=for-the-badge&label=FORKS&color=1a1a1a&labelColor=FF1493" alt="Forks"/>
-  <img src="https://img.shields.io/github/followers/ShreyaAjith134?style=for-the-badge&label=FOLLOWERS&color=1a1a1a&labelColor=FF1493" alt="Followers"/>
-</p>
+**Computer Science Undergraduate at PES University**
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=FFB6D9)](https://github.com/ShreyaAjith134)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FFB6D9)](https://www.linkedin.com/in/shreyaajith)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=FFB6D9)](mailto:shreya.ajith1@gmail.com)
 
-<img src="assets/computer_img.png" alt="" width="300" align="left" hspace="24"/>
+---
 
-<h3>Who Am I?</h3>
+## About
 
-<p align="justify">
-I am a <b>Computer Science</b> student, <b>developer</b>, and <b>designer</b>, currently working as a freelancer while actively exploring the intersection of <b>technology</b>, <b>design</b>, and <b>problem-solving</b>. My journey is driven by a continuous curiosity to learn, build, and create, from web software development to crafting thoughtful and functional design experiences.
+I am a Computer Science undergraduate at PES University, Bengaluru, interested in building practical software solutions across backend development, machine learning, artificial intelligence, and systems engineering.
 
-Over time, I've built experience across the web development ecosystem, with a strong passion for <b>front-end development</b>, where logic meets creativity and visual design. Alongside web technologies, I enjoy expanding my skills into mobile development and exploring modern applications using <b>Android Studio</b> and <b>React Native</b>.
-</p>
+I enjoy working on end-to-end projects, exploring new technologies, and translating technical concepts into functional applications.
 
-<p align="justify">
-At the moment, I am working as a freelancer, developing complete systems for companies in my city, from planning and interface design to implementation and delivery. This hands-on experience has strengthened my <b>problem-solving skills</b>, <b>technical versatility</b>, and ability to understand <b>business needs</b>, while constantly pushing me to grow as a developer and professional.
-</p>
+- Currently pursuing B.Tech in Computer Science Engineering (2024–2028).
+- Interested in backend systems, machine learning, RAG pipelines, and network engineering.
+- Experienced in developing web applications, ML pipelines, and system-level projects.
+- Design Head across three technical clubs at PES University.
 
-<p align="center">You can click here</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreyaajith/"><img src="https://img.shields.io/badge/LINKEDIN-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shreya.ajith1@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+---
 
+## Technical Skills
 
-<h2 align="center">My Contributions</h2>
+**Languages**
 
-<p align="center">
-  <img src="assets/contributions.svg" alt="Contribution Graph" width="90%"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,c,mysql)](https://skillicons.dev
 
+**Frameworks and Development**
 
-<h2 align="center">Tech Stack</h2>
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,express)](https://skillicons.dev
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,react,nodejs,express,fastapi,flask,mysql,sqlite,mongodb,arduino,git,github,vscode&theme=dark&perline=9" alt="Tech Stack Icons"/>
-</p>
+**Databases and Tools**
 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite,git,github,vscode,arduino)](https://skillicons.dev
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShreyaAjith134&theme=dark&background=000000&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF1493&dates=AAAAAA&border=FF1493" alt="GitHub Streak" width="60%"/>
-</p>
+**Additional technologies:** Scikit-learn, ChromaDB, sentence-transformers, Llama 3.1, Groq API, Playwright, OpenFlow, Mininet, and SQLite.
+
+---
+
+## Featured Projects
+
+### Debate Forge
+
+`FastAPI` `ChromaDB` `Llama 3.1` `Groq API`
+
+An evidence-grounded debate assistant built using Retrieval-Augmented Generation (RAG).
+
+- Implemented semantic search and vector retrieval for context-aware responses.
+- Developed argument scoring and logical fallacy detection.
+- Built a FastAPI backend supporting multi-turn conversations.
+
+### Mental Health Treatment Predictor
+
+`Python` `Scikit-learn` `Flask`
+
+An end-to-end machine learning application for predicting mental health treatment needs.
+
+- Developed data preprocessing, feature engineering, and exploratory analysis pipelines.
+- Trained and evaluated multiple supervised learning algorithms.
+- Achieved approximately 83% accuracy with a stacking ensemble classifier.
+
+### SDN Network Utilization Monitor
+
+`POX` `OpenFlow` `Mininet`
+
+A software-defined networking monitor for tracking bandwidth utilization across an emulated network.
+
+- Implemented MAC learning and dynamic flow rule installation.
+- Collected network statistics through periodic port polling.
+- Validated throughput using iperf-generated traffic.
+
+### DealDrop — Food Deal Aggregator
+
+`Python` `FastAPI` `Playwright` `SQLite`
+
+A food deal aggregator that compares dish prices and offers across Swiggy and Zomato.
+
+- Extracted pricing and discount information using Playwright.
+- Implemented effective-price calculations and cross-platform offer ranking.
+- Integrated Server-Sent Events for live progress updates.
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaAjith134&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=FFB6D9&icon_color=FFB6D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaAjith134&layout=compact&hide_border=true&theme=transparent&title_color=FFB6D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShreyaAjith134&hide_border=true&background=0D1117&ring=FFB6D9&fire=FFB6D9&currStreakLabel=FFB6D9&sideLabels=FFB6D9&currStreakNum=FFB6D9&sideNums=FFB6D9&dates=AAAAAA)
+
+---
+
+## Leadership
+
+- **Design Head:** Nexus AWS, LAYER8, and Neural Hive.
+- **Student Organizations:** Active member of 10 student organizations at PES University.
+- **School Captain:** The Foundation School, Gunjur (2022–2023).
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShreyaAjith134&style=flat&color=FFB6D9&label=PROFILE+VIEWS)
+
+*Building, learning, and improving — one project at a time.*
